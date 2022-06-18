@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Prints lines containing 'bash' to get the PID of the Bash process
+ps -fuxa | grep "bash"
