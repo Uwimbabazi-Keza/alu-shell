@@ -7,7 +7,7 @@ hour=0; while [ $hour -le 12 ]
 	  while [ $min -lt 60 ]
 	  do 
 	    echo "$min"
-	    ((min+))
+	    ((min++))
 	done
 	((hour++))
        done
