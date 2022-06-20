@@ -1,1 +1,1 @@
-Learning Shell, loops, conditions and parsing
+Learning Shell loops, conditions and parsing
