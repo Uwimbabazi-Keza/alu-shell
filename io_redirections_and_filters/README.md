@@ -1,2 +1,1 @@
-Learning I/O Redirections and filter
-s
+Learning I/O Redirections and filters
